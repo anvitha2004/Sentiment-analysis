@@ -64,3 +64,6 @@ Place indian_places_reviews_with_ratings.csv in the root folder or adjust the pa
 
 ### Step 4: Run the project
 python app.py 
+
+### Step 5: Output
+<img width="1860" height="884" alt="Screenshot 2025-07-31 095244" src="https://github.com/user-attachments/assets/327aada6-c044-4536-a100-9b8e3796c5c3" />
