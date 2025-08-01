@@ -41,7 +41,7 @@ We used the Hugging Face `bert-base-uncased` model and fine-tuned it for 3-class
 
 ## 📂 Dataset
 
-- Name: `indian_places_reviews_with_ratings.csv`
+- Name: `dataset.csv`
 - Columns:
   - `place_name`
   - `review_text`
